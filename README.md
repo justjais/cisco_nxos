@@ -18,6 +18,7 @@ Please see the documentation link for each function for details on how to use
 the function in an Ansible playbook.
 
 * get_facts [[source]](https://github.com/ansible-network/cisco_nxos/blob/devel/tasks/get_facts.yaml) [[docs]](https://github.com/ansible-network/cisco_nxos/blob/devel/docs/get_facts.md)
+* configure_vlans [[source]](https://github.com/ansible-network/cisco_nxos/blob/devel/tasks/configure_vlans.yaml) [[docs]](https://github.com/ansible-network/cisco_nxos/blob/devel/docs/configure_vlans.md)
 
 ### Config Manager
 
